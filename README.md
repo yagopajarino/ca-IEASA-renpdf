@@ -11,6 +11,7 @@ Software necesario:
 </ul>
 
 Ambos deben estar incluidos en el PATH del sistema. <a href="https://www.java.com/es/download/help/path_es.html">Cómo cambiar variables del sistema</a>
+
 Al momento de instalar python, ofrece la posibilidad de agregarlo al PATH del sistema (opción "Add Python 3.9 to PATH) 👇
 
 ![image](https://user-images.githubusercontent.com/84155397/126665001-5b8d2fe9-d690-4f3b-ac5a-45b2f6036e99.png)
@@ -27,7 +28,7 @@ Luego se debe abrir un CMD (Simbolo del sistema) en la carpeta donde están desc
 <li>Ctrl + L dentro de la carpeta -> sombrea la barra de directorio en color azul</li>
 <li>Borrar lo sombreado en azul</li>
 <li>Escribir CMD</li>
-<li>Dar Enter</li>
+<li>Apretar Enter</li>
 </ol>
 
 Se debe abrir una pantalla como esta 👇
