@@ -1,6 +1,6 @@
 # IEASA-pdf-renombre 📝
 
-Cambia el nombre de los archivos PDF enviados por IEASA.
+Cambia el nombre de los archivos PDF enviados por IEASA para poder identificarlos por periodo y cuenca.
 
 ## Utilización
 
