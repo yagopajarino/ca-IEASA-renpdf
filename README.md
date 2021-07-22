@@ -5,7 +5,7 @@ Cambia el nombre de los archivos PDF enviados por IEASA para poder identificarlo
 Este documento está pensado para guiar al usuario en la instalación y uso del programa para renombrar los archivos PDF de IEASA, en un lenguaje y nivel de detalle destinado al usuario no especializado en software y programación.
 Es posible que sea necesaria la participación de su administrador de sistemas para descargar parte del software necesario.
 
-Cualquier consulta acerca de la instalación y uso no dude en usar el canal de contacto brindado en este documento.
+Cualquier consulta acerca de la instalación y uso no dude en usar el canal de <a href="https://github.com/yagopajarino/IEASA-pdf-renombre/blob/main/README.md#contacto">contacto</a> brindado en este documento.
 
 ## Instalación 🔧
 
