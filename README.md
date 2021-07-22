@@ -28,7 +28,7 @@ Luego se debe abrir un CMD (Simbolo del sistema) en la carpeta donde están desc
 <li>Ctrl + L dentro de la carpeta -> sombrea la barra de directorio en color azul</li>
 <li>Borrar lo sombreado en azul</li>
 <li>Escribir CMD</li>
-<li>Apretar Enter</li>
+<li>Enter</li>
 </ol>
 
 Se debe abrir una pantalla como esta 👇
@@ -41,7 +41,9 @@ Una vez tenemos el CMD ubicado en la carpeta donde estan los archivos descargado
 ```
 pip install -r requirements.txt
 ```
-Que ejecuta una serie de descargas e instalaciones de las librerias necesarias.
+![image](https://user-images.githubusercontent.com/84155397/126671901-76f11023-a516-4b52-a2da-78e71b291656.png)
+
+Al dar enter, comienza la descarga e instalación de las librerias necesarias.
 
 ## Utilización
 Al hacer doble click en app.py:
