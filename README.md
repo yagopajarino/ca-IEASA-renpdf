@@ -25,7 +25,9 @@ Java no ofrece la opción de agregar al PATH al momento de la instalación, por 
 C:\Program Files (x86)\Java\bin
 ```
 ## Descarga de archivos 📂
-Descargar los archivos de este repositorio y extraer en alguna carpeta de la computadora. <a href="https://github.com/yagopajarino/IEASA-pdf-renombre/archive/refs/heads/main.zip">Descargar</a>
+Descargar los archivos de este repositorio y extraer en alguna carpeta de la computadora. 
+
+<a href="https://github.com/yagopajarino/IEASA-pdf-renombre/archive/refs/heads/main.zip">Descargar archivos</a>
 
 Luego se debe abrir un CMD (Simbolo del sistema) en la carpeta donde están descargados los archivos, para ello:
 <ol>
