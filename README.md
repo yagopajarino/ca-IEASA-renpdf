@@ -64,14 +64,7 @@ Dentro del directorio dado al programa crea una carpeta llamada **output**, dond
 ## Contacto
 En caso de dudas, consutas, mejoras 👉 <a href="www.yagopajarino.com.ar/contact">Get in touch</a>
 
-## Donar :money_with_wings:
+## Buy me a cafecito :money_with_wings:
 Este repositorio es de uso libre bajo licencia MIT pero tu donación ayuda a mantenero y mejorarlo.
 
-<dl>
-  <dt>Mercadopago</dt>
-  <dd>ARS 100 a traves de mercadopago <a href="https://mpago.la/1ajy5gq">Aquí</a></dd>
-  <dd>ARS 500 a traves de mercadopago <a href="https://mpago.la/1ZDRLo4">Aquí</a></dd>
-  <dt>MODO</dt>
-  <dd>ARS 100 a traves de MODO <a href="https://www.modo.com.ar/coupon/?id=4DMw4lAphaiczkIDm4J7XU">Aquí</a></dd>
-  <dd>ARS 500 a traves de MODO <a href="https://www.modo.com.ar/coupon/?id=LTCa2l9PtoqujxnMiGawL">Aquí</a></dd>
-</dl>
+<a href="https://cafecito.app/yagopajarino">Buy me a <em>cafecito</em></a>
