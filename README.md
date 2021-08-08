@@ -62,7 +62,7 @@ Al hacer doble click en app.py:
 Dentro del directorio dado al programa crea una carpeta llamada **output**, donde se guardan los archivos PDF renombrados. En caso de no haber podido renombrar algun archivo, lo guarda con el nombre original, de esta manera la carpeta output tiene la misma cantidad de archivos que la carpeta de origen.
 
 ## Contacto
-En caso de dudas, consutas, mejoras 👉 <a href="www.yagopajarino.com.ar/contact">Get in touch</a>
+En caso de dudas, consutas, mejoras 👉 <a href="mailto:yagopajarino@outlook.com">Get in touch</a>
 
 ## Buy me a cafecito :money_with_wings:
 Este repositorio es de uso libre bajo licencia MIT pero tu donación ayuda a mantenero y mejorarlo.
