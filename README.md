@@ -4,7 +4,7 @@ Cambia el nombre de los archivos PDF enviados por IEASA para poder identificarlo
 
 Es posible que sea necesaria la participación del administrador de sistemas para descargar parte del software necesario.
 
-Cualquier consulta acerca de la instalación y uso dudes en usar el canal de <a href="https://github.com/yagopajarino/IEASA-pdf-renombre/blob/main/README.md#contacto">contacto</a> brindado en este documento.
+Cualquier consulta acerca de la instalación y uso dudes en usar el canal de <a href="https://github.com/yagopajarino/ca-IEASA-renpdf#contacto">contacto</a> brindado en este documento.
 
 ## Instalación 🔧
 
@@ -63,7 +63,7 @@ Al hacer doble click en app.py:
 Dentro del directorio dado al programa crea una carpeta llamada **output**, donde se guardan los archivos PDF renombrados. En caso de no haber podido renombrar algun archivo, lo guarda con el nombre original, de esta manera la carpeta output tiene la misma cantidad de archivos que la carpeta de origen.
 
 ## Contacto
-En caso de dudas, consutas, mejoras 👉 <a href="www.yagopajarino.com.ar/contact">Get in touch</a>
+En caso de dudas, consutas, mejoras 👉 <a href="https://yagopajarino.github.io/repos-contact/?ca-IEASA-renpdf">Get in touch</a>
 
 ## Buy me a cafecito :money_with_wings:
 Este repositorio es de uso libre bajo licencia MIT pero tu donación ayuda a mantenero y mejorarlo.
