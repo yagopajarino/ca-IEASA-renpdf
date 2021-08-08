@@ -68,4 +68,4 @@ En caso de dudas, consutas, mejoras 👉 <a href="www.yagopajarino.com.ar/contac
 ## Buy me a cafecito :money_with_wings:
 Este repositorio es de uso libre bajo licencia MIT pero tu donación ayuda a mantenero y mejorarlo.
 
-<a href="https://cafecito.app/yagopajarino">Buy me a <em>cafecito</em></a>
+<a href="https://cafecito.app/yagopajarino" target="_blank">Buy me a <em>cafecito</em></a>
