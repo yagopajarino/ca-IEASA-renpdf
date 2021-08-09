@@ -27,7 +27,7 @@ C:\Program Files (x86)\Java\bin
 ## Descarga de archivos 📂
 Descargar los archivos de este repositorio y extraer en alguna carpeta de la computadora. 
 
-<a href="https://github.com/yagopajarino/IEASA-pdf-renombre/archive/refs/heads/main.zip">Descargar archivos</a>
+<a href="https://github.com/yagopajarino/ca-IEASA-renpdf/archive/refs/heads/main.zip">Descargar archivos</a>
 
 Luego se debe abrir un CMD (Simbolo del sistema) en la carpeta donde están descargados los archivos, para ello:
 <ol>
