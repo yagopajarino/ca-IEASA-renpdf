@@ -65,7 +65,7 @@ Dentro del directorio dado al programa crea una carpeta llamada **output**, dond
 ## Contacto
 En caso de dudas, consutas, mejoras 👉 <a href="https://yagopajarino.github.io/repos-contact/?ca-IEASA-renpdf" target="_blank">Get in touch</a>
 
-## Buy me a cafecito :money_with_wings:
+## Invitame un cafecito :money_with_wings:
 Este repositorio es de uso libre bajo licencia MIT pero tu donación ayuda a mantenero y mejorarlo.
 
-<a href="https://cafecito.app/yagopajarino" target="_blank">Buy me a <em>cafecito</em></a>
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/yagopajarino)
